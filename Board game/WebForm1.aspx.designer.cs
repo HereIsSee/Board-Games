@@ -60,13 +60,13 @@ namespace Board_game
         protected global::System.Web.UI.WebControls.Button Settings;
 
         /// <summary>
-        /// Checkers control.
+        /// Image1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Checkers;
+        protected global::System.Web.UI.WebControls.Image Image1;
 
         /// <summary>
         /// Chess control.
@@ -78,6 +78,15 @@ namespace Board_game
         protected global::System.Web.UI.WebControls.Button Chess;
 
         /// <summary>
+        /// Checkers control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Checkers;
+
+        /// <summary>
         /// Undecided control.
         /// </summary>
         /// <remarks>
@@ -85,5 +94,14 @@ namespace Board_game
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Undecided;
+
+        /// <summary>
+        /// Table1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Table Table1;
     }
 }

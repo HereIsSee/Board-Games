@@ -78,5 +78,10 @@ namespace Board_game
             StartingLabel.Visible = false;
             GameLabel.Text = "Undecided";
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
