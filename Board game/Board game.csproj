@@ -68,6 +68,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Pictures\Board.png" />
+    <Content Include="Background\nature.png" />
+    <Content Include="Background\scifi.png" />
+    <Content Include="Background\urban.png" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />

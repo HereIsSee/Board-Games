@@ -175,3 +175,62 @@ C:\Users\biram\Desktop\Board-Games-main (1)\Board-Games-main\Board game\obj\Debu
 C:\Users\biram\Desktop\Board-Games-main (1)\Board-Games-main\Board game\obj\Debug\Board game.csproj.CopyComplete
 C:\Users\biram\Desktop\Board-Games-main (1)\Board-Games-main\Board game\obj\Debug\Board game.dll
 C:\Users\biram\Desktop\Board-Games-main (1)\Board-Games-main\Board game\obj\Debug\Board game.pdb
+C:\Game\Board-Games\Board game\bin\Board game.dll.config
+C:\Game\Board-Games\Board game\bin\Board game.dll
+C:\Game\Board-Games\Board game\bin\Board game.pdb
+C:\Game\Board-Games\Board game\bin\roslyn\csc.exe
+C:\Game\Board-Games\Board game\bin\roslyn\csc.exe.config
+C:\Game\Board-Games\Board game\bin\roslyn\csc.rsp
+C:\Game\Board-Games\Board game\bin\roslyn\csi.exe
+C:\Game\Board-Games\Board game\bin\roslyn\csi.exe.config
+C:\Game\Board-Games\Board game\bin\roslyn\csi.rsp
+C:\Game\Board-Games\Board game\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Game\Board-Games\Board game\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Game\Board-Games\Board game\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Game\Board-Games\Board game\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Game\Board-Games\Board game\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Game\Board-Games\Board game\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Game\Board-Games\Board game\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Game\Board-Games\Board game\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Game\Board-Games\Board game\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Game\Board-Games\Board game\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Game\Board-Games\Board game\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Game\Board-Games\Board game\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.AppContext.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Collections.Immutable.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Console.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Globalization.Calendars.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.IO.Compression.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.IO.FileSystem.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Net.Http.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Net.Sockets.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Reflection.Metadata.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.ValueTuple.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Xml.XPath.dll
+C:\Game\Board-Games\Board game\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Game\Board-Games\Board game\bin\roslyn\vbc.exe
+C:\Game\Board-Games\Board game\bin\roslyn\vbc.exe.config
+C:\Game\Board-Games\Board game\bin\roslyn\vbc.rsp
+C:\Game\Board-Games\Board game\bin\roslyn\VBCSCompiler.exe
+C:\Game\Board-Games\Board game\bin\roslyn\VBCSCompiler.exe.config
+C:\Game\Board-Games\Board game\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Game\Board-Games\Board game\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Game\Board-Games\Board game\obj\Debug\Board game.csproj.AssemblyReference.cache
+C:\Game\Board-Games\Board game\obj\Debug\Board game.csproj.CoreCompileInputs.cache
+C:\Game\Board-Games\Board game\obj\Debug\Board game.csproj.CopyComplete
+C:\Game\Board-Games\Board game\obj\Debug\Board game.dll
+C:\Game\Board-Games\Board game\obj\Debug\Board game.pdb

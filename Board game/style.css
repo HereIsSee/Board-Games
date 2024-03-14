@@ -3,11 +3,13 @@
     position: relative;
     background-color: #312e2b;
 }
-.container{
+
+.container {
     display: flex;
-    flex-direction:column;
-    align-items:center;
+    flex-direction: column;
+    align-items: center;
 }
+
 .play_buttons {
     display: flex;
     justify-content: space-around;
@@ -34,7 +36,23 @@
     font-weight: bold;
     color: #F9FAF8;
 }
+
 .Top-container {
     display: flex;
     justify-content: space-between;
+}
+
+.nature {
+    background-image: url(Background/nature.png);
+    background-size: cover;
+}
+
+.urban {
+    background-image: url(Background/urban.png);
+    background-size: cover;
+}
+
+.scifi {
+    background-image: url(Background/scifi.png);
+    background-size: cover;
 }
