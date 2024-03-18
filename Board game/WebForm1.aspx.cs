@@ -11,21 +11,7 @@ namespace Board_game
     public partial class WebForm1 : System.Web.UI.Page
     {
 
-        protected void Page_Load(object sender, EventArgs e)
-        {
-            GoBack.Visible = false;
-            Checkers.Visible = true;
-            Chess.Visible = true;
-            Undecided.Visible = true;
-            StartingLabel.Visible = true;
-            GameLabel.Text = "";
-            Theme.Visible = false;
-            Sound.Visible = false;
-            Settings.Visible = true;
-            Nature.Visible = false;
-            Urban.Visible = false;
-            Scifi.Visible = false;
-        }
+
         /// <summary>
         /// Shows the settings of the page (in progress)
         /// </summary>
@@ -44,28 +30,10 @@ namespace Board_game
             Settings.Visible = false;
             Nature.Visible = false;
             Urban.Visible = false;
-            Scifi.Visible = false;
+            SciFi.Visible = false;
         }
-        /// <summary>
-        /// Returns user to starting page
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        protected void GoBack_Click(object sender, EventArgs e)
-        {
-            GoBack.Visible = false;
-            Checkers.Visible = true;
-            Chess.Visible = true;
-            Undecided.Visible = true;
-            StartingLabel.Visible = true;
-            GameLabel.Text = "";
-            Theme.Visible = false;
-            Sound.Visible = false;
-            Settings.Visible = true;
-            Nature.Visible = false;
-            Urban.Visible = false;
-            Scifi.Visible = false;
-        }
+
+
         /// <summary>
         /// Shows the checkers board and initiates game once user makes a move (in progress)
         /// </summary>
@@ -83,7 +51,7 @@ namespace Board_game
             Sound.Visible = false;
             Nature.Visible = false;
             Urban.Visible = false;
-            Scifi.Visible = false;
+            SciFi.Visible = false;
         }
         /// <summary>
         /// Shows the chess board and initiates game once user makes a move (in progress)
@@ -102,7 +70,7 @@ namespace Board_game
             Sound.Visible = false;
             Nature.Visible = false;
             Urban.Visible = false;
-            Scifi.Visible = false;
+            SciFi.Visible = false;
         }
         /// <summary>
         /// Shows the undecided board and initiates game once user makes a move (in progress)
@@ -121,7 +89,7 @@ namespace Board_game
             Sound.Visible = false;
             Nature.Visible = false;
             Urban.Visible = false;
-            Scifi.Visible = false;
+            SciFi.Visible = false;
         }
 
         /// <summary>
@@ -141,12 +109,7 @@ namespace Board_game
             Sound.Visible = false;
             Nature.Visible = true;
             Urban.Visible = true;
-            Scifi.Visible = true;
-        }
-
-        protected void Sound_Click(object sender, EventArgs e)
-        {
-
+            SciFi.Visible = true;
         }
 
         /// <summary>
@@ -156,9 +119,9 @@ namespace Board_game
         /// <param name="e"></param>
         protected void Nature_Click(object sender, EventArgs e)
         {
-            string background = "nature";
-            form1.Attributes.Remove("class");
-            form1.Attributes.Add("class", background);
+            Nature.Visible = false;
+            Urban.Visible = false;
+            SciFi.Visible = false;
         }
 
         /// <summary>
@@ -168,9 +131,9 @@ namespace Board_game
         /// <param name="e"></param>
         protected void Urban_Click(object sender, EventArgs e)
         {
-            string background = "urban";
-            form1.Attributes.Remove("class");
-            form1.Attributes.Add("class", background);
+            Nature.Visible = false;
+            Urban.Visible = false;
+            SciFi.Visible = false;
         }
 
         /// <summary>
@@ -180,9 +143,9 @@ namespace Board_game
         /// <param name="e"></param>
         protected void Scifi_Click(object sender, EventArgs e)
         {
-            string background = "scifi";
-            form1.Attributes.Remove("class");
-            form1.Attributes.Add("class", background);
+            Nature.Visible = false;
+            Urban.Visible = false;
+            SciFi.Visible = false;
         }
 
         protected void Button1_Click(object sender, EventArgs e)

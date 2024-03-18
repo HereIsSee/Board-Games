@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Pictures\Board.png" />
+    <Content Include="Audio\Virginio Aiello On Piano - Van Gogh.mp3" />
     <Content Include="Background\nature.png" />
     <Content Include="Background\scifi.png" />
     <Content Include="Background\urban.png" />
