@@ -98,6 +98,7 @@
             VolumeSlider.Visible = false;
             PlayButton.Visible = false;
             StopButton.Visible = false;
+            Image1.Visible = false;
             //ScriptManager.RegisterStartupScript(this, this.GetType(), "hideMusicButton", "hideMusicButton();", true);
         }
 
@@ -149,7 +150,7 @@
             </div>
             
             <div class="container">
-                <%--<asp:Image ID="Image1" runat="server" CssClass="auto-style1" Height="1000px" ImageAlign="Middle" ImageUrl="~/App_Pictures/Board.png" Width="1000px" />--%>
+                <asp:Image ID="Image1" runat="server" CssClass="auto-style1" Height="20%" ImageAlign="AbsMiddle" ImageUrl="~/App_Pictures/Board.png" Width="20%" visible ="false" />
                 <asp:Button ID="Theme" runat="server" class="gamebutton" OnClientClick="toggleThemeButtons()" OnClick="Theme_Click" Text="Theme" />
                 <asp:Button ID="Sound" runat="server" class="gamebutton" OnClick="Sound_Click" Text="Sound" />
                 <button onclick="natureButtonClicked()" id="NatureButton" style="display:none;" class="gamebutton">Nature</button>

@@ -52,6 +52,7 @@ namespace Board_game
             Nature.Visible = false;
             Urban.Visible = false;
             SciFi.Visible = false;
+            Image1.Visible = true;
         }
         /// <summary>
         /// Shows the chess board and initiates game once user makes a move (in progress)
@@ -71,6 +72,7 @@ namespace Board_game
             Nature.Visible = false;
             Urban.Visible = false;
             SciFi.Visible = false;
+            Image1.Visible = true;
         }
         /// <summary>
         /// Shows the undecided board and initiates game once user makes a move (in progress)
@@ -122,6 +124,7 @@ namespace Board_game
             Nature.Visible = false;
             Urban.Visible = false;
             SciFi.Visible = false;
+            Image1.Visible = false;
         }
 
         /// <summary>
@@ -134,6 +137,7 @@ namespace Board_game
             Nature.Visible = false;
             Urban.Visible = false;
             SciFi.Visible = false;
+            Image1.Visible = false;
         }
 
         /// <summary>
@@ -146,6 +150,7 @@ namespace Board_game
             Nature.Visible = false;
             Urban.Visible = false;
             SciFi.Visible = false;
+            Image1.Visible = false;
         }
 
         protected void Button1_Click(object sender, EventArgs e)
